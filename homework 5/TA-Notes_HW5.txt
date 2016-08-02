@@ -1,0 +1,3 @@
+Grade: 10 / 10 
+
+In problem set 1, when you created a list of dictionaries, the price should have been made into a float (rather than a string). 
